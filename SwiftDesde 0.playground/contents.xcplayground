@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='Boleanos y valores lógicos'/>
+        <page name='Arreglos - Array'/>
+        <page name='Diccionarios'/>
+        <page name='Tuplas'/>
+        <page name='Enumeraciones'/>
+        <page name='Range Operator'/>
+        <page name='Estructura de control desde cero'/>
+        <page name='if - else'/>
+        <page name='Condiciones Anidadas'/>
+        <page name='Switch'/>
+        <page name='Bucle ciclo for in'/>
+        <page name='Bucle o ciclo for'/>
+        <page name='Bucle o ciclo repeat'/>
+        <page name='Funciones sin parametros'/>
+        <page name='Funciones de un solo parámetro'/>
+        <page name='Funciones con multiples parametros'/>
+        <page name='Funciones definir valores por default'/>
+        <page name='Añadir nombres a parámetros externos'/>
+        <page name='Closures'/>
+        <page name='Propiedades y metodos'/>
+        <page name='Classes'/>
+        <page name='Variables Optionals'/>
+        <page name='Optional Binding'/>
+        <page name='Optional Chaining'/>
+        <page name='Guard let optionals'/>
+        <page name='Manejo de errorres'/>
+        <page name='Type Casting'/>
+        <page name='Tipos anidados'/>
+        <page name='Extensiones'/>
+        <page name='Protocolos'/>
+        <page name='Protocolo Delegado'/>
+        <page name='Generics'/>
+        <page name='Sets'/>
+        <page name='Algoritmos de colecciones ordenar datos Sort'/>
+        <page name='Algoritmos de colecciones ordenar datos sorted'/>
+        <page name='Olgoritmos de colecciones Filter'/>
+        <page name='Algoritmos de colecciones Map'/>
+        <page name='Algoritmos de colecciones ForEach'/>
+        <page name='Otras operaciones de colecciones'/>
+    </pages>
+</playground>
